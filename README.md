@@ -1,0 +1,1 @@
+# patika_2_hafta_odev
