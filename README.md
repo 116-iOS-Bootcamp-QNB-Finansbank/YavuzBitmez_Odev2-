@@ -11,6 +11,7 @@ Son dakika haber uygulamasında uygulama navigation title'larında nerede olduğ
 
 
 >-----Odev 2------>>
+```swift
 
 func fib() -> [Int] {
     var fibs: [Int] = [1, 1]
@@ -24,6 +25,6 @@ for i in  fib() {
         print(i)
     }
 }
-
+```
 >-----Odev 2------>>
 
